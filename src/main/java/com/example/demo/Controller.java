@@ -4,6 +4,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.util.Vector;
@@ -12,6 +14,8 @@ import java.util.Vector;
 @RequestMapping(value = "/Website")
 public class Controller {
 
+    protected static Logger logger = LoggerFactory.getLogger(Controller.class);
+
     public static void error(String str_) {
         throw new RuntimeException(str_);
     }
@@ -19,6 +23,7 @@ public class Controller {
     @RequestMapping(value = "/s_begin={s_begin}&s_end={s_end}", method = RequestMethod.GET)
     public static String Website(@PathVariable String s_begin, @PathVariable String s_end) {
         String result = "";
+        logger.debug("visit WordLadder.");
         try {
             Graph ladder = new Graph("src/dictionary.txt");
             if (s_begin.length() == 0) return "Bad input";
@@ -37,10 +42,13 @@ public class Controller {
                 result += "No word ladder found from " + s_end + " back to " + s_begin + ".";
             }
         } catch (RuntimeException e) {
+            logger.debug("error: {}", e.getMessage());
             return e.getMessage();
         } catch (IOException e) {
+            logger.debug("error: {}", e.toString());
             return e.toString();
         }
+        logger.debug(result);
         return result;
     }
 }
