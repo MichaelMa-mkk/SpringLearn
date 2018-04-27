@@ -1,7 +1,31 @@
-2018-04-02 15:27:07,114 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 19304 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
-2018-04-02 15:27:07,119 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
-2018-04-02 15:27:07,121 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
-2018-04-02 15:27:09,799 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.372 seconds (JVM running for 5.791)
-2018-04-02 15:27:30,859 DEBUG (Controller.java:26)- visit WordLadder.
-2018-04-02 15:27:31,063 DEBUG (Controller.java:51)- A ladder from code back to data:
+2018-04-27 14:54:32,852 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 16844 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 14:54:32,867 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 14:54:32,871 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 14:54:36,353 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 4.17 seconds (JVM running for 6.158)
+2018-04-27 14:57:43,158 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 14348 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 14:57:43,162 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 14:57:43,166 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 14:57:47,542 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 6.466 seconds (JVM running for 8.217)
+2018-04-27 15:14:40,791 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 1784 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 15:14:40,794 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:14:40,796 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:14:44,390 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 4.523 seconds (JVM running for 5.985)
+2018-04-27 15:21:11,226 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 15564 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 15:21:11,229 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:21:11,231 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:21:14,012 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.401 seconds (JVM running for 4.481)
+2018-04-27 15:22:10,715 DEBUG (Controller.java:26)- visit WordLadder.
+2018-04-27 15:22:10,805 DEBUG (Controller.java:51)- A ladder from code back to data:
 code cote dote date data 
+2018-04-27 15:23:07,890 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 17096 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 15:23:07,894 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:23:07,896 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:23:10,521 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.259 seconds (JVM running for 4.278)
+2018-04-27 15:23:52,111 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 9764 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 15:23:52,114 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:23:52,116 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:23:54,684 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.151 seconds (JVM running for 4.279)
+2018-04-27 15:24:21,751 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 7912 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-27 15:24:21,791 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:24:21,793 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:24:24,390 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.243 seconds (JVM running for 4.263)

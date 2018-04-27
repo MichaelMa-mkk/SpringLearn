@@ -1,0 +1,7 @@
+2018-04-02 15:27:07,114 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on MKK-PC with PID 19304 (C:\Users\13735\IdeaProjects\SpringLearn\target\classes started by 13735 in C:\Users\13735\IdeaProjects\SpringLearn)
+2018-04-02 15:27:07,119 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 15:27:07,121 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 15:27:09,799 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.372 seconds (JVM running for 5.791)
+2018-04-02 15:27:30,859 DEBUG (Controller.java:26)- visit WordLadder.
+2018-04-02 15:27:31,063 DEBUG (Controller.java:51)- A ladder from code back to data:
+code cote dote date data 
